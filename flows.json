@@ -90,7 +90,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"text\":\"Hello\"}",
+                "to": "Hallois",
                 "tot": "json"
             }
         ],
