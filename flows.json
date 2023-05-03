@@ -90,7 +90,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "Hallois",
+                "to": "{hello}",
                 "tot": "msg"
             }
         ],
