@@ -91,7 +91,7 @@
                 "p": "payload",
                 "pt": "msg",
                 "to": "Hallois",
-                "tot": "json"
+                "tot": "msg"
             }
         ],
         "action": "",
